@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m a software engineer specialized in Android and Linux systems.
+
+- 🔭 I’m currently working on an [open source feed reader app](https://github.com/bubelov/news)
+- 🌱 I’m currently learning ops stuff
+- 📫 How to reach me: [bubelov.com](https://bubelov.com)
+
 <!--
 **bubelov/bubelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

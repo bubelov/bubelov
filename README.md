@@ -2,7 +2,7 @@
 
 I’m a software engineer specialized in Android and Linux
 
-- 🔭 I’m currently working on an [News](https://github.com/bubelov/news) and [BTC Map](https://github.com/bubelov/btcmap-android) apps
+- 🔭 I’m currently working on [News](https://github.com/bubelov/news) and [BTC Map](https://github.com/bubelov/btcmap-android) apps
 - 🌱 I’m currently learning ops stuff
 - 📫 How to reach me: [bubelov.com](https://bubelov.com)
 

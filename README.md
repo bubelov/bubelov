@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a software engineer specialized in Android and Linux
+I’m a software engineer specializing in Android and Linux
 
 - 🔭 I’m currently working on [News](https://github.com/bubelov/news) and [BTC Map](https://github.com/bubelov/btcmap-android)
 - 🌱 I’m currently learning ops stuff

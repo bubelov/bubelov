@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m a software engineer specializing in Android and Linux
+I’m a FOSS contributor
 
-- 🔭 I’m currently working on [News](https://github.com/bubelov/news) and [BTC Map](https://github.com/bubelov/btcmap-android)
+- 🔭 I’m currently working on [BTC Map](https://github.com/bubelov/btcmap-android) and [Vesti](https://github.com/bubelov/vesti)
 - 🌱 I’m currently learning ops stuff
 - 📫 How to reach me: [bubelov.com](https://bubelov.com)
 
